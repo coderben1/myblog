@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  },
+  "scripts": {
+    "blog:dev": "vuepress dev blog",
+    "blog:build": "vuepress build blog",
+    "blog:pub": "bash publish.sh"
+  },
+  "dependencies": {
+    "@vssue/api-github-v3": "^1.0.0",
+    "@vssue/vuepress-plugin-vssue": "^1.0.2"  
+  }
+}
