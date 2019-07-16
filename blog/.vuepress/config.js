@@ -23,7 +23,7 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: '主页', link: '/' },
-            { text: 'shares', link: '/shares/ios设备模拟器'},
+            { text: 'Shares', link: '/shares/ios设备模拟器'},
             { text: '关于', link: '/about' },
             // {
             //     text: 'Languages',
@@ -40,6 +40,7 @@ module.exports = {
                     children: [
                         ['/shares/ios设备模拟器', '▲ios设备模拟器'],
                         ['/shares/localstorage', '▲localStorage（隐私模式-坑）'],
+                        ['/shares/element-table', '▲element-table（Excel导出）'],
                     ]
                 }
             ],
