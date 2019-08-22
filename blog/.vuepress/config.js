@@ -41,9 +41,11 @@ module.exports = {
                         ['/shares/ios设备模拟器', '▲ios设备模拟器'],
                         ['/shares/localstorage', '▲localStorage（隐私模式-坑）'],
                         ['/shares/element-table', '▲element-table（Excel导出）'],
+                        ['/shares/iview-ie', '▲iview不兼容ie'],
                     ]
                 }
             ],
         },
+        lastUpdated: 'Last Updated', // string | boolean
     }
 }
