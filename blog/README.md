@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/m2.gif
+heroImage: /images/pic1.png
 actionText: 点我起飞 ...
 actionLink: /shares/ios设备模拟器
 features:
